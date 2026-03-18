@@ -1,8 +1,12 @@
 <h1>👋 Hi I'm Mark Berio</h1>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" width="200" alt="GIF 1" />
-  <img src="https://i.pinimg.com/originals/e1/eb/80/e1eb809702eb45f91a8aa93ffbd40ecc.gif" width="200" alt="GIF 2" />
-</div>
+<center>
+<table>
+  <tr>
+    <td><img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" width="200" alt="GIF 1" /></td>
+    <td><img src="https://i.pinimg.com/originals/e1/eb/80/e1eb809702eb45f91a8aa93ffbd40ecc.gif" width="200" alt="GIF 2" /></td>
+  </tr>
+</table>
+</center>
 🎓 Graduate with a Bachelor of Science in Computer Engineering
 <p>
 🎓 Graduate with a Bachelor of Science in Computer Engineering <br>
