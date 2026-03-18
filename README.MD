@@ -26,7 +26,7 @@ In addition to development, I have a strong background in technical support, whe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 </p>
-<br>
+
 <!-- Backend -->
 <h3>⚙️ Backend</h3>
 <p align="left">
