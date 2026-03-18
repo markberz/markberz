@@ -10,15 +10,13 @@
 </center>
 
 
-<h1>👋 Hi I'm Mark Berio</h1>
+<h1>👋 Konichiwa</h1>
 
-🎓 Graduate with a Bachelor of Science in Computer Engineering <br>
-👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development <br>
-😉 I Love Playing Music on 🎵 Spotify, 🎮📲 Online Gaming, and 🏀 Basketball
 
 <p> Hi, I'm Mark Berio, a computer engineer with a passion for building user-friendly and efficient digital solutions. I have learned web development skills including HTML, CSS, and JavaScript, and have hands-on experience developing Windows applications using VB.NET. I also specialize in building embedded system projects and writing low-level code to interface with hardware.
 
 In addition to development, I have a strong background in technical support, where I handled troubleshooting for both hardware and software issues. This experience has strengthened my problem-solving skills and given me a deeper understanding of system-level operations. </p>
+🎓 Graduate with a Bachelor of Science in Computer Engineering <br>
 <h2> 🚀 &nbsp;Tech Stack</h2>
 
 <!-- Frontend -->
