@@ -2,7 +2,6 @@
 <table>
   <tr>
     <td><img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" width="200" alt="GIF 1" /></td>
-    <td><img src="https://i.pinimg.com/originals/e1/eb/80/e1eb809702eb45f91a8aa93ffbd40ecc.gif" width="200" alt="GIF 2" /></td>
     <td><img src="https://i.pinimg.com/originals/ce/0b/f5/ce0bf5e4c02400d28c55c383a80ba5d2.gif" width="200" alt="GIF 1" /></td>
     <td><img src="https://i.pinimg.com/originals/c0/73/0c/c0730cebc0881f5714a523835abd27f3.gif" width="200" alt="GIF 1" /></td>
   </tr>
