@@ -12,8 +12,6 @@
 
 <h1>👋 Hi I'm Mark Berio</h1>
 
-🎓 Graduate with a Bachelor of Science in Computer Engineering
-<p>
 🎓 Graduate with a Bachelor of Science in Computer Engineering <br>
 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development <br>
 😉 I Love Playing Music on 🎵 Spotify, 🎮📲 Online Gaming, and 🏀 Basketball
@@ -58,7 +56,7 @@
 <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg" alt="stackoverflow" width="45" height="45"/>
 </p>
 
-<h3>🛠️ Tools & Platforms</h3>
+<h3>🛠️ AI Platforms That i used</h3>
 <p align="left">
 <img src="https://camo.githubusercontent.com/e6b0be98557e1eafdb38e78f73a983820b202cb0867c9f9dc451d723233a7d1c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30342f436861744750545f6c6f676f2e737667" alt="vscode" width="45" height="45"/>
 <!-- Gemini AI icon -->
