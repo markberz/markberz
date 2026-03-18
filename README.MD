@@ -49,7 +49,7 @@
 <p align="left">
 <img src="https://camo.githubusercontent.com/e6b0be98557e1eafdb38e78f73a983820b202cb0867c9f9dc451d723233a7d1c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30342f436861744750545f6c6f676f2e737667" alt="vscode" width="45" height="45"/>
 <!-- Gemini AI icon -->
-<img src="https://lobehub.com/icons/gemini" alt="Gemini AI" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" alt="Gemini AI" width="45" height="45"/>
 
 <!-- GitHub Copilot icon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Copilot" width="45" height="45"/>
