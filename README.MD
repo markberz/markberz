@@ -44,13 +44,8 @@ In addition to development, I have a strong background in technical support, whe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
-
-<!-- Canva (custom icon) -->
 <img src="https://camo.githubusercontent.com/c0ff5013c14ddb942cc6ff2ca662c166f26f74a84fdd552fc0f83f5f27890383/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63616e76612f63616e76612d6f726967696e616c2e737667" alt="canva" width="45" height="45"/>
-
-<!-- Discord -->
 <img src="https://camo.githubusercontent.com/70c411a98fbded52ea917c79046c51efb6a6398e970a7838d5c28253c19ad77a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333635352f646973636f72642d69636f6e2e737667" alt="discord" width="45" height="45"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/>
 <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg" alt="stackoverflow" width="45" height="45"/>
 </p>
