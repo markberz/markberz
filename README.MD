@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/0994ed90127449ce643fe08be04d8ce381bd6bdbd93cdc60d6109c9240025945/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="vb.net" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb.net" width="45" height="45"/>
 </p>
 
 <!-- Tools -->
@@ -52,8 +52,8 @@
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" alt="Gemini AI" width="45" height="45"/>
 
 <!-- GitHub Copilot icon -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Copilot" width="45" height="45"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*i64DAg71FrLIH0PujstzWw.png" alt="GitHub Copilot" width="45" height="45"/>
 
 <!-- Claude AI icon -->
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968346.png" alt="Claude AI" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="Claude AI" width="45" height="45"/>
 
