@@ -15,8 +15,10 @@
 🎓 Graduate with a Bachelor of Science in Computer Engineering <br>
 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development <br>
 😉 I Love Playing Music on 🎵 Spotify, 🎮📲 Online Gaming, and 🏀 Basketball
-</p>
 
+<p> Hi, I'm Mark Berio, a computer engineer with a passion for building user-friendly and efficient digital solutions. I have learned web development skills including HTML, CSS, and JavaScript, and have hands-on experience developing Windows applications using VB.NET. I also specialize in building embedded system projects and writing low-level code to interface with hardware.
+
+In addition to development, I have a strong background in technical support, where I handled troubleshooting for both hardware and software issues. This experience has strengthened my problem-solving skills and given me a deeper understanding of system-level operations. </p>
 <h2> 🚀 &nbsp;Tech Stack</h2>
 
 <!-- Frontend -->
@@ -26,13 +28,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 </p>
-
+<br>
 <!-- Backend -->
 <h3>⚙️ Backend</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/0994ed90127449ce643fe08be04d8ce381bd6bdbd93cdc60d6109c9240025945/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb.net" width="45" height="45"/>
 </p>
