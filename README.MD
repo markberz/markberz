@@ -1,5 +1,5 @@
 <h1>👋 Hi I'm Mark Berio</h1>
-
+![Cool GIF](https://i.pinimg.com/originals/e1/eb/80/e1eb809702eb45f91a8aa93ffbd40ecc.gif)
 <p>
 🎓 Graduate with a Bachelor of Science in Computer Engineering <br>
 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development <br>
