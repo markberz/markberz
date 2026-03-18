@@ -36,7 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
 
 <!-- Canva (custom icon) -->
-<img src="https://cdn.simpleicons.org/canva" alt="canva" width="45" height="45"/>
+<img src="https://camo.githubusercontent.com/c0ff5013c14ddb942cc6ff2ca662c166f26f74a84fdd552fc0f83f5f27890383/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63616e76612f63616e76612d6f726967696e616c2e737667" alt="canva" width="45" height="45"/>
 
 <!-- Discord -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discord" width="45" height="45"/>
