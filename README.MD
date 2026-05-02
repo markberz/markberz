@@ -1,6 +1,8 @@
-<img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" width="200"/>
-<img src="https://i.pinimg.com/originals/ce/0b/f5/ce0bf5e4c02400d28c55c383a80ba5d2.gif" width="200"/>
-<img src="https://i.pinimg.com/originals/c0/73/0c/c0730cebc0881f5714a523835abd27f3.gif" width="200"/>
+<p style="white-space: nowrap;">
+  <img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" width="200" alt="GIF 1"/>
+  <img src="https://i.pinimg.com/originals/ce/0b/f5/ce0bf5e4c02400d28c55c383a80ba5d2.gif" width="200" alt="GIF 2"/>
+  <img src="https://i.pinimg.com/originals/c0/73/0c/c0730cebc0881f5714a523835abd27f3.gif" width="200" alt="GIF 3"/>
+</p>
 
 <h1>👋 Konichiwa</h1>
 
