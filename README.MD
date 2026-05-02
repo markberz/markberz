@@ -37,7 +37,7 @@ I also have a strong background in technical support, handling both hardware and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
-<img src="https://camo.githubusercontent.com/70c411a98fbded52ea917c79046c51efb6a6398e970a7838d5c28253c19ad77a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333635352f646973636f72642d69636f6e2e737667" alt="discord" width="45" height="45"/>
+<img src="https://camo.githubusercontent.com/70c411a98fbded52ea917c79046c51efb6a6398e970a7838d5c28253c19ad77a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333635352f646973636f72642d69636f6e2e737667" alt="discord" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/>
 </p>
 
