@@ -22,14 +22,14 @@ I also have a strong background in technical support, handling both hardware and
 <h2>🚀 Tech Stack</h2>
 
 <h3>🎨 Frontend</h3>
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </p>
 
 <h3>⚙️ Backend</h3>
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
@@ -37,7 +37,7 @@ I also have a strong background in technical support, handling both hardware and
 </p>
 
 <h3>🛠️ Tools & Platforms</h3>
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
@@ -50,7 +50,7 @@ I also have a strong background in technical support, handling both hardware and
 </p>
 
 <h3>🤖 AI Platforms I Use</h3>
-<p>
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="45" height="45" alt="ChatGPT"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" width="45" height="45" alt="Gemini AI"/>
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*i64DAg71FrLIH0PujstzWw.png" width="45" height="45" alt="GitHub Copilot"/>
